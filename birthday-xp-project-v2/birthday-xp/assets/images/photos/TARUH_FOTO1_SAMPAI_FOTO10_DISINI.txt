@@ -1,1 +1,0 @@
-Simpan 10 foto slide di folder ini dengan nama: foto1.jpg, foto2.jpg, ..., foto10.jpg
